@@ -76,6 +76,14 @@ Note: Take M as 10^9+7 </td>
   <td> Given two integers ‘a’ and ‘m’. The task is to find modular multiplicative inverse of ‘a’ under modulo ‘m’. </td>
   <td> <a href="https://practice.geeksforgeeks.org/viewSol.php?subId=16773678&pid=701168&user=NikhilBansal4"> Solution </a></td> 
 </tr>
+</table>
 
 <h2> Bit Magic </h2>
+<table>
+<tr>
+  <th> SNo. </th>
+  <th> Problem </th>
+  <th> Solution </th>
+</tr>  
+  
 </table>
