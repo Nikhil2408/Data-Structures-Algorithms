@@ -68,7 +68,7 @@ Note: Take M as 10^9+7 </td>
   <td> 11. </td>
   <td> You are given two numbers a and b. You need to find the multiplication of a and b under modulo M.
 Note: Take M as 10^9+7 </td>
-  <td> <a href="https://practice.geeksforgeeks.org/viewSol.php?subId=16772324&pid=701436&user=NikhilBansal4"> Solution </a></td> 
+  <td> </td> 
 </tr> 
 </tr> 
   <tr>
