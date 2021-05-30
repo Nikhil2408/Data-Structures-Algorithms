@@ -1,6 +1,6 @@
 # Data Structures - Geeks For Geeks Problems
 
-## Searching Problems
+## 1. Searching Problems
 S.No. | Problem | Solution
 --- | --- | --- |
 1 | Index Of First Occurrence of the element in Sorted Array| [Solution](https://github.com/Nikhil2408/Data-Structures-Geeks-For-Geeks-Course/blob/master/Searching%20Problems/IndexOfFirstOccurrence.java)
